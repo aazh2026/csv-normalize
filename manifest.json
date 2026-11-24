@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "record_count": 7,
+  "columns": [
+    "shipment_id",
+    "origin",
+    "destination",
+    "units",
+    "unit_price",
+    "currency",
+    "ship_date"
+  ],
+  "records": [
+    {
+      "shipment_id": "SHP-1001",
+      "origin": "Shanghai",
+      "destination": "Rotterdam",
+      "units": 1200,
+      "unit_price": "13800.00",
+      "currency": "USD",
+      "ship_date": "2024-01-05"
+    },
+    {
+      "shipment_id": "SHP-1002",
+      "origin": "Hangzhou",
+      "destination": "Osaka",
+      "units": 80,
+      "unit_price": "1450.50",
+      "currency": "JPY",
+      "ship_date": "2024-02-05"
+    },
+    {
+      "shipment_id": "SHP-1003",
+      "origin": "Ningbo",
+      "destination": "Hamburg",
+      "units": 3000,
+      "unit_price": "1695.00",
+      "currency": "EUR",
+      "ship_date": "2024-03-12"
+    },
+    {
+      "shipment_id": "SHP-1004",
+      "origin": "Shenzhen",
+      "destination": "Los Angeles",
+      "units": 450,
+      "unit_price": "2450.00",
+      "currency": "USD",
+      "ship_date": "2024-03-20"
+    },
+    {
+      "shipment_id": "SHP-1005",
+      "origin": "Xiamen",
+      "destination": "Sydney",
+      "units": 60,
+      "unit_price": "980.90",
+      "currency": "AUD",
+      "ship_date": "2024-04-02"
+    },
+    {
+      "shipment_id": "SHP-1006",
+      "origin": "Guangzhou",
+      "destination": "Gdansk",
+      "units": 250,
+      "unit_price": "3120.75",
+      "currency": "USD",
+      "ship_date": "2024-04-22"
+    },
+    {
+      "shipment_id": "SHP-1007",
+      "origin": "Chengdu",
+      "destination": "Auckland",
+      "units": 40,
+      "unit_price": "875.20",
+      "currency": "NZD",
+      "ship_date": "2024-05-11"
+    }
+  ],
+  "unknown_values": [],
+  "repairs": [
+    {
+      "line": 2,
+      "note": "bare thousands separator preserved as one number"
+    },
+    {
+      "line": 3,
+      "note": "bare thousands separator preserved as one number"
+    },
+    {
+      "line": 4,
+      "note": "bare thousands separator preserved as one number"
+    }
+  ]
+}

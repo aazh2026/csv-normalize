@@ -1,0 +1,8 @@
+shipment_id,origin,destination,units,unit_price,currency,ship_date
+SHP-1001,Shanghai,Rotterdam,1200,13800.00,USD,2024-01-05
+SHP-1002,Hangzhou,Osaka,80,1450.50,JPY,2024-02-05
+SHP-1003,Ningbo,Hamburg,3000,1695.00,EUR,2024-03-12
+SHP-1004,Shenzhen,Los Angeles,450,2450.00,USD,2024-03-20
+SHP-1005,Xiamen,Sydney,60,980.90,AUD,2024-04-02
+SHP-1006,Guangzhou,Gdansk,250,3120.75,USD,2024-04-22
+SHP-1007,Chengdu,Auckland,40,875.20,NZD,2024-05-11

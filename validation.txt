@@ -1,0 +1,15 @@
+[PASS] header is byte-exact and in target order  (shipment_id,origin,destination,units,unit_price,currency,ship_date)
+[PASS] every source row survived (no rows lost)  (7 of 7)
+[PASS] non-required columns dropped
+[PASS] shipment_id unique
+[PASS] units are integers
+[PASS] unit_price has exactly two decimals  (13800.00,1450.50,1695.00,2450.00,980.90,3120.75,875.20)
+[PASS] currency uppercase ISO 4217, or null where genuinely unknown  (USD,JPY,EUR,USD,AUD,USD,NZD)
+[PASS] ship_date is YYYY-MM-DD  (2024-01-05,2024-02-05,2024-03-12,2024-03-20,2024-04-02,2024-04-22,2024-05-11)
+[PASS] no leading/trailing whitespace in any cell
+[PASS] nulls appear only for genuinely unknown values  (0 null(s))
+[PASS] no empty values in required fields
+[PASS] a bare thousands separator was handled without losing a row  (3 row(s) needed number protection)
+[PASS] manifest is valid JSON and round-trips
+
+13 passed, 0 failed

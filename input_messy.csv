@@ -1,0 +1,8 @@
+Shipment ID , Origin , Destination , Units , Unit Price , Currency , Ship Date , Notes , Ref
+ SHP-1001 , Shanghai , Rotterdam , 1,200 , 13,800.00 , usd , 2024-01-05 , handle with care , R1
+SHP-1002,Hangzhou,Osaka,80,"1,450.50",jpy,05/02/2024,fragile,R2
+SHP-1003 , Ningbo , Hamburg , 3,000 , "1.695,00" , eur , "Mar 12, 2024" , , R3
+SHP-1004 , Shenzhen , Los Angeles , 450 , 2450 , USD , 2024/03/20 , urgent , R4
+SHP-1005 , Xiamen , Sydney , 60 , 980.9 , AUD , 2024-04-02 , , R5
+SHP-1006 , Guangzhou , Gdansk , 250 , 3120.75 , usd , 22 Apr 2024 , , R6
+SHP-1007 , Chengdu , Auckland , 40 , 875.20 , nzd , 2024-05-11 , fragile , R7
